@@ -60,7 +60,6 @@
                 <!-- duit-placeholder my-placeholder -->
         </div>
         <div>Thank you</div>
-    </div>
 </script>
 
 <div data-duit='{
