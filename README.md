@@ -12,7 +12,7 @@
 <li>Rejoice!</li>
 </ol>
 
-<h4>EXAMPLE:</h4>
+<h4>BASIC EXAMPLE:</h4>
 
 1: template
 ```html
