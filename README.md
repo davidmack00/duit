@@ -1,6 +1,8 @@
 
 # Direct UI Templates - Simple templates for designers (no JavaScript)
 
+<p>Direct UI Templates is designed to be an extrememly simple template engine that designers and developers can use to make re-usable components without a single line of JavaScript.</p>
+
 <h4>Create static templates (with or without json data) as easy as 1,2,3...4! </h4>
 
 <ol>
@@ -9,8 +11,6 @@
 <li>invoke the template later in the HTML (with or without json data)</li>
 <li>Rejoice!</li>
 </ol>
-
-<p>Direct UI Templates is designed to be an extrememly simple template engine that designers and developers can use to make re-usable components without a single line of JavaScript.</p>
 
 <h4>EXAMPLE:</h4>
 
